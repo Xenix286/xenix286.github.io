@@ -1,0 +1,7 @@
+/* right now this is just to test if I can make a solid black background
+ * fixed */
+body {
+  font-family: sans-serif;
+  background: fixed;
+  background-color: black;
+}
