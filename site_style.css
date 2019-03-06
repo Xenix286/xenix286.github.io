@@ -1,7 +1,22 @@
-/* right now this is just to test if I can make a solid black background
- * fixed */
+/* This is the overall style sheet for my site here, the background url is
+ * ok_hand */
+html {
+  max-width: 1000px;
+  margin-right: auto;
+  margin-left:  auto;
+}
+
 body {
   font-family: sans-serif;
   background: fixed;
   background-color: black;
+  color: white;
+  background-image: url("8.1.jpg");
+  background-attachment: fixed;
+  
+  
+}
+
+hr {
+  color: white;
 }
